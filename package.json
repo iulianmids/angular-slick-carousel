@@ -4,7 +4,7 @@
   "main": "dist/angular-slick.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/devmark/angular-slick-carousel.git"
+    "url": "https://github.com/iulianmids/angular-slick-carousel.git"
   },
   "author": "DevMark",
   "license": "MIT",
