@@ -140,7 +140,7 @@ angular
           init = function () {
             initOptions();
 
-            var slickness = angular.element(element);
+            var slickness = $(element);// angular.element(element);
 
             if (angular.element(element).hasClass('slick-initialized')) {
               if (options.enabled) {
